@@ -24,7 +24,7 @@ It is an E-Commerce Website which aims to sell the mobile phones and have almost
      1.6 Orders 
      1.7 Login/ Signup/ Change Password/ Forgot Password Screen (OTP Verification)
  
-**2. Admin**
+**2. Admin**.
 
      2.1 Admin Login
      2.2 Admin Home / Dashboard
